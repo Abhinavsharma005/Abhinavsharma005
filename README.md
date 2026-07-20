@@ -25,19 +25,18 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,socketio,tailwind,docker,git,github,firebase,vercel,py,tensorflow,fastapi,numpy,pandas,sklearn,jupyter,cpp,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,tailwind,docker,git,github,firebase,vercel,py,tensorflow,fastapi,sklearn,cpp,flutter,figma" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
