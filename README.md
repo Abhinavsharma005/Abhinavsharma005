@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,tailwind,Redux,docker,git,github,firebase,vercel,py,tensorflow,fastapi,numpy,pandas, matplotlib,seaborn,cpp,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,tailwind,docker,git,github,firebase,vercel,py,tensorflow,fastapi,cpp,flutter,figma" />
 </p>
 
 <p align="center">
@@ -81,18 +81,6 @@ AI Resume Analyzer & ATS Score Predictor — classifies resumes using a Bidirect
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavsharma005&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinavsharma005/Abhinavsharma005/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinavsharma005/Abhinavsharma005/output/github-contribution-grid-snake.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/Abhinavsharma005/Abhinavsharma005/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</picture>
-
-> This appears automatically once the `snake.yml` workflow has run at least once.
 
 ---
 
