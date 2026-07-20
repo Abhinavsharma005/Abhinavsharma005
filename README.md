@@ -19,7 +19,7 @@
 - I'm a developer passionate about turning ideas into products that solve real problems
 - I specialize in building performant full-stack applications and integrating machine learning and AI features where they make the most impact
 - Active in hackathons
-- Reach me on GitHub — [@Abhinavsharma005](https://github.com/Abhinavsharma005)
+- Portfolio Website — [AbhinavSharma](https://portfolio-abhinav-sharma.vercel.app/)
 
 ---
 
