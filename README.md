@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,tailwind,docker,git,github,firebase,vercel,py,tensorflow,fastapi,sklearn,cpp,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,tailwind,docker,git,github,firebase,vercel,py,tensorflow,fastapi,sklearn,opencv,cpp,flutter,figma" />
 </p>
 
 <p align="center">
