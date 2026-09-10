@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Builded+EduStream+%7C+ResumeIQ;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Agentic+%2F+AI;Builded+EduStream+%7C+ResumeIQ;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ### 🧠 About Me
 
-- 🚀 Full-Stack Developer | AI/ML Enthusiast | Product Builder
+- 🚀 Full-Stack Developer | AI Integration | Product Builder
 - I'm a developer passionate about turning ideas into products that solve real problems
-- I specialize in building performant full-stack applications and integrating machine learning and AI features where they make the most impact
+- I specialize in building performant full-stack applications and integrating AI features where they make the most impact
 - Active in hackathons
 - Portfolio Website — [AbhinavSharma](https://portfolio-abhinav-sharma.vercel.app/)
 
@@ -26,11 +26,12 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,tailwind,docker,git,github,firebase,vercel,py,tensorflow,fastapi,sklearn,opencv,cpp,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,tailwind,docker,git,github,firebase,vercel,py,fastapi,tensorflow,sklearn,cpp,flutter,figma" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
