@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinavsharma005&label=Profile%20Views&color=2E9EF7&style=flat" alt="profileviews"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhinavsharma005&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
   <a href="https://github.com/Abhinavsharma005?tab=followers"><img src="https://img.shields.io/github/followers/Abhinavsharma005?label=Followers&style=flat&color=2E9EF7" /></a>
 </p>
 
