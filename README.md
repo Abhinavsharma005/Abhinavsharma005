@@ -56,11 +56,11 @@ Live Interactive Learning Platform — a role-based full-stack web application f
 </td>
 <td width="50%">
 
-**📄 [ResumeIQ](https://github.com/Abhinavsharma005/AI-Resume-Analyzer-ATS-Score-Predictor)**
+**🤖 [Self-Correcting RAG Agent](https://github.com/Abhinavsharma005/Self-Correcting-Rag-Agent)**
 
-AI Resume Analyzer & ATS Score Predictor — classifies resumes using a Bidirectional GRU model, performs ATS skill matching against job descriptions, calculates ATS scores, and provides personalized improvement suggestions.
+Self-Correcting RAG Agent — a document-based AI system that evaluates 5 chunking strategies during ingestion, automatically selects the best-performing strategy, uses Cross-Encoder reranking, and self-corrects retrieval through cyclic LangGraph workflows.
 
-`TensorFlow/Keras` `Streamlit` `NLTK` `Pandas` `NumPy` `Scikit-learn`
+`LangGraph` `LangChain` `Ollama` `ChromaDB` `FastAPI` `Next.js` `Sentence Transformers`
 
 </td>
 </tr>
