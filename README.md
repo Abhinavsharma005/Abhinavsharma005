@@ -25,13 +25,38 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,nodejs,mongodb,postgres,redis,redux,tailwind,docker,git,github,firebase,vercel,py,fastapi,tensorflow,sklearn,cpp,flutter,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="48" height="48" alt="LangChain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="48" height="48" alt="Qdrant" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-010101?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-010101?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGMkUzQSIgZD0iTTE4LjM4IDIuODJhMSAxIDAgMCAwLTEuNDEtLjA2bC0zLjYzIDMuNmExIDEgMCAwIDAgLjA2IDEuNDFsMy42MyAzLjYzYTEgMSAwIDAgMCAxLjQxIDBsMy42My0zLjYzYTEgMSAwIDAgMCAtLjA2LTEuNDFsLTMuNjMtMy41NHoiLz48cGF0aCBmaWxsPSIjRjY0QTI4IiBkPSJNMjEuMDUgMTIuMDRsLTMuNjMtMy42M2ExIDEgMCAwIDAtMS40MSAwbC0zLjYzIDMuNjNhMSAxIDAgMCAwIDAgMS40MWwzLjYzIDMuNjNhMSAxIDAgMCAwIDEuNDEgMGwzLjYzLTMuNjNhMSAxIDAgMCAwIDAtMS40MXoiLz48cGF0aCBmaWxsPSIjMDBBNkZGIiBkPSJNMTIuMDQgNS43OGwtMy42My0zLjYzYTEgMSAwIDAgMC0xLjQxIDBMMi44MyA1Ljc4YTEgMSAwIDAgMCAwIDEuNDFsMy42MyAzLjYzYTEgMSAwIDAgMCAxLjQxIDBsMy41NC0zLjU0YTEgMSAwIDAgMCAwLTEuNTR6Ii8+PHBhdGggZmlsbD0iIzAwQzY3OSIgZD0iTTkuMjIgMTUuNTRsLTMuNjMtMy42M2ExIDEgMCAwIDAtMS40MSAwTDIuODMgMTUuNTRhMSAxIDAgMCAwIDAgMS40MWwzLjYzIDMuNjNhMSAxIDAgMCAwIDEuNDEgMGwzLjU0LTMuNjFhMSAxIDAgMCAwIDAtMS40M3oiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
